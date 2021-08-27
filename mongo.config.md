@@ -1,0 +1,3 @@
+--dbpath path - storing db files
+--logpath path - storing log files
+--fork --logpath path - running mongo as a child service
