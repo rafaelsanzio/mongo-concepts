@@ -1,0 +1,3 @@
+Official Docs on Replica Sets: https://docs.mongodb.com/manual/replication/
+
+Official Docs on Sharding: https://docs.mongodb.com/manual/sharding/
